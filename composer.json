@@ -1,0 +1,9 @@
+{
+  "name": "mdhrepos/subscriptions",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Woocommerce Subscriptions WordPress plugin mirror for composer installation",
+  "keywords": [
+      "wordpress"
+  ]
+}
